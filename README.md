@@ -1,5 +1,7 @@
 # react-native-abi-detector
 
+> An ABI detector for react-native android app.
+
 ## Getting Started
 
 ```
@@ -65,7 +67,7 @@ interface ABIs {
 ```
 ## Thanks
 
-- [zhaobozhen/LibChecker](https://github.com/zhaobozhen/LibChecker), the methods of abi detecting is basically copied from it
+- [zhaobozhen/LibChecker](https://github.com/zhaobozhen/LibChecker), the methods of ABI detecting is basically copied from it
 
 ## License
 
